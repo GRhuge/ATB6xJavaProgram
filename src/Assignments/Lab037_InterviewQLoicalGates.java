@@ -1,6 +1,6 @@
-package ex_18042024_Operators;
+package Assignments;
 
-public class Lab037_InterviewQ004 {
+public class Lab037_InterviewQLoicalGates {
 
 	public static void main(String[] args) {
 		
