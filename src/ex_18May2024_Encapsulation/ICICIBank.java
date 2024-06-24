@@ -30,6 +30,5 @@ public class ICICIBank {
 		System.out.println(i.getBal());
 		i.setBal();
 		System.out.println(i.getBal());
-		
 	}
 }
