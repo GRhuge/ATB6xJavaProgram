@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class HW3 {
+public class vowel_InterviewQ {
 
 	public static void main(String[] args) {
 		// Program to check char is vowel or consonant

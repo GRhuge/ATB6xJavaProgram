@@ -1,7 +1,7 @@
 package Assignments;
 import java.util.Scanner;
 
-public class HW4 {
+public class Leap_Year_InterviewQ {
 
 	public static void main(String[] args) {
 		// Program for Leap year
