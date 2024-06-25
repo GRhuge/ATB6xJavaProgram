@@ -11,13 +11,13 @@ public class ICICIBank {
 	String getName() {
 		return name;
 	}
-	void setName() {
+	void setName(String name) {
 		this.name = name;
 	}
 	long getBal() {
 		return bal;
 	}
-	void setBal() {
+	void setBal(long bal) {
 		if(bal > 0) {
 		this.bal = bal;
 	}
@@ -28,7 +28,7 @@ public class ICICIBank {
 	public static void  main(String[] args) {
 		ICICIBank i = new ICICIBank("hari", 100);
 		System.out.println(i.getBal());
-		i.setBal();
+		i.setBal(-88);
 		System.out.println(i.getBal());
 	}
 }
