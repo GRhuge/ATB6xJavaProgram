@@ -8,10 +8,10 @@ public class Lab167_Checked_Exception {
 		// Checked exceptions
 		try {
 		FileInputStream fis = new FileInputStream("e:/abc.txt");
-	    }
-		catch(Exception e) {
-			System.out.println(e);
+		}catch(Exception e) {
+			System.out.println(e.getMessage());
 		}
+		
 		//Unchecked exceptions
 	//	int a = 20;
 	//	int c = a/0;
