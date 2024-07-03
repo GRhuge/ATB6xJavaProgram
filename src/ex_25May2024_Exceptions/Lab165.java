@@ -4,9 +4,13 @@ public class Lab165 {
 	public static void main(String[] args) {
 		//	String s = null;
 		//	s.trim();
-			
-			int a =10;
-			int b =a/0;
-			System.out.println(b);
+			try {
+			int a =10, b=0, c;
+			c=a/b;
+			System.out.println(c);
+			}catch(Exception e) {
+				System.out.println(e);
+			}
+			System.out.println("krsna");
 		}
 }

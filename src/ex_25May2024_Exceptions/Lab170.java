@@ -16,5 +16,4 @@ public class Lab170 {
 			System.out.println("final is executed");
 		}
 	}
-
 }
