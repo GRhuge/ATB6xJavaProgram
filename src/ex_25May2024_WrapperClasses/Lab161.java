@@ -3,7 +3,7 @@ package ex_25May2024_WrapperClasses;
 public class Lab161 {
 
 	public static void main(String[] args) {
-		Integer x = 90 , y = 100;
+		Integer x = 400 , y = 400;
 		if(x==y) {
 			System.out.println("same");
 		}
@@ -16,7 +16,7 @@ public class Lab161 {
 		}
 		else {
 			System.out.println("not same");
-		}
+		} 
 		
 		Integer q = new Integer(78);
 		Integer f = 10;
