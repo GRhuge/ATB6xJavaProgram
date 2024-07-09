@@ -11,6 +11,12 @@ public class Test {
 		}catch(FileNotFoundException e) {
 			e.printStackTrace();
 		}
+		
+		try {
+		rw.savefile();
+		}catch(FileNotFoundException e) {
+			e.printStackTrace();
+		}
 		System.out.println("krsna");
 	}
 
