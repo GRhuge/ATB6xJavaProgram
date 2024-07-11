@@ -11,7 +11,7 @@ public class Lab174 {
 		System.out.println(shopping_list.get(0));
 		System.out.println(shopping_list.indexOf("bread"));
 		System.out.println(shopping_list.isEmpty());
-		shopping_list.add("cheese");
-		System.out.println(shopping_list);
+	//	shopping_list.add("cheese");
+	//	System.out.println(shopping_list);
 	}
 }
