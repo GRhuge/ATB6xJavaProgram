@@ -17,5 +17,4 @@ public class Lab198 {
 		m.replace(101, "krsna");
 		System.out.println(m);
 	}
-
-}
+} 
