@@ -1,6 +1,6 @@
 package ex_18Apr2024_Operators;
 
-public class Lab035 {
+public class Lab035_OR_GateOpe {
 
 	public static void main(String[] args) {
 		// || - OR Gate examples

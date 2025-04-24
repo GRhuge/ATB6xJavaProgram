@@ -1,6 +1,6 @@
 package ex_18Apr2024_Operators;
 
-public class Lab036 {
+public class Lab036_And_GateOpe {
 
 	public static void main(String[] args) {
 		// And &&
