@@ -38,5 +38,4 @@ public class HW_Switch_Statement {
 		}
 		sc.close();
 	}
-
 }
