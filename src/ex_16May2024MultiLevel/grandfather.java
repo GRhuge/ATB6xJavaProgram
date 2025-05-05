@@ -1,7 +1,7 @@
 package ex_16May2024MultiLevel;
 
 public class grandfather {
-	void home() {
+	public void home() {
 		System.out.println("1bhk");
 	}
 }
@@ -19,4 +19,3 @@ public class grandfather {
 		c.home();
 	}
 }
-
