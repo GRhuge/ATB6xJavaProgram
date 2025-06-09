@@ -2,15 +2,14 @@ package ex_21May2024_Abstraction;
 
 public class Car extends Engine{
 	void start() {
-		System.out.println("Start the car");
+		System.out.println("start the car");
 	}
 	
 	void stop() {
-		System.out.println("Stop the car");
+		System.out.println("stop the car");
 	}
 	
 	void partGearBox() {
 		System.out.println("Assemble the gearbox");
 	}
-	
 }
